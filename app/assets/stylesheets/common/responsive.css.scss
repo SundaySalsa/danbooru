@@ -146,11 +146,16 @@ div#page {
   
   #nav {
     display: none;
+    text-align: left;
+
   }
+  
+  header#top menu {
+    padding-left: 0;    
+  } 
   
   header#top menu.main {
     background-color: #d3cbe0;
-  
   }
   
   header#top menu {
